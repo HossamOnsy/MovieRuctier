@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">50dp</dimen>
+    <dimen name="activity_vertical_margin">50dp</dimen>
+    <dimen name="text_margin">20dp</dimen>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="feed_item_status_pad_left_right">20dp</dimen>
+    <dimen name="feed_item_status_pad_top">15dp</dimen>
+    <dimen name="feed_item_profile_name">20dp</dimen>
+    <dimen name="feed_item_padding_top_bottom">25dp</dimen>
+    <dimen name="feed_item_padding_left_right">20dp</dimen>
+</resources>
