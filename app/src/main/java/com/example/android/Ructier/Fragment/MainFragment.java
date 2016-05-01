@@ -105,9 +105,9 @@ public class MainFragment extends Fragment {
 
     public void SaveData()
     {
+        CashedMovies CashedMovies = new CashedMovies(getActivity());
         for (int i=0;i<getArrayList().size();i++)
         {
-            CashedMovies CashedMovies = new CashedMovies(getActivity());
             CashedMovies.openData();
             try {
                 if (getArrayList().get(i).ID=="197584") {
